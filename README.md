@@ -1,6 +1,6 @@
 <div align="left">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> <span style="font-size:55px;">𝐆𝐔𝐑𝐔 𝐕𝐈𝐒𝐇𝐍𝐔 𝐆</span>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> <span style="font-size:55px;">𝐆𝐔𝐑𝐔 𝐕𝐈𝐒𝐇𝐍𝐔 𝐆⭐</span>
 
 <h3>🚀 Python Developer | 🤖 AI & Machine Learning Enthusiast | 💻 Software Engineer</h3>
 
@@ -22,7 +22,7 @@
 <tr>
 <td width="230">
 
-<img src="https://octodex.github.com/images/scubatocat.png" width="220"/>
+<img src="assets/octocat.png" width="220"/>
 
 </td>
 

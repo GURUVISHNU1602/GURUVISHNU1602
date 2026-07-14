@@ -1,7 +1,7 @@
 <div align="center">
 
 Guru Vishnu G ⭐
-
+  
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Software+Engineer;Open+Source+Learner;Building+Real-World+Projects" />
 
 <p>
@@ -184,7 +184,7 @@ Interactive dashboard using Python, Pandas and Power BI.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUVISHNU1602&theme=tokyo-night"/>
 
 </p>
 

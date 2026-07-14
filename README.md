@@ -21,19 +21,17 @@
 <table>
 <tr>
 <td width="300" align="center">
-  <img src="assets/developer-boy.png" width="300" alt="Developer Illustration">
-</td>
+  <img src="developer-boy.png" width="300" alt="Developer Illustration">
 </td>
 
 <td>
 
-- 🐍 I'm a passionate **Python Developer** building scalable and real-world applications.
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**.
-- 💻 Building projects using **Python, FastAPI, SQL & modern web technologies**.
-- 📊 Interested in **Data Science, Automation & Backend Development**.
-- ☁️ Learning **Cloud Computing, Docker, Git, CI/CD & DevOps**.
-- 🚀 Creating **real-world projects** and continuously improving my skills.
-- 🌱 Open to **internships, collaborations & open-source contributions**.
+- 🎓 **Computer Science Engineering Graduate**
+- 🐍 Passionate **Python Developer**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 📊 Interested in **Data Science & Automation**
+- 💻 Love Building **Real-World Projects**
+- 🌱 Currently Learning **Advanced Python, FastAPI & Cloud**
 
 </td>
 </tr>

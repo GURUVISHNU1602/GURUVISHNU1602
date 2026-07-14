@@ -1,18 +1,18 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> <span style="font-size:55px;">𝐆𝐔𝐑𝐔 𝐕𝐈𝐒𝐇𝐍𝐔 𝐆</span>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 𝐆𝐔𝐑𝐔 𝐕𝐈𝐒𝐇𝐍𝐔 𝐆
 
-<h3>🚀 Python Developer | 🤖 AI & Machine Learning Enthusiast | 💻 Software Engineer</h3>
+### 🚀 Python Developer | 🤖 AI & Machine Learning Enthusiast | 💻 Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Open+Source+Learner;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Software+Engineer;Building+Real-World+Projects;Open+Source+Learner;Always+Learning+New+Technologies" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=GURUVISHNU1602&label=PROFILE+VIEWS&style=for-the-badge&color=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=GURUVISHNU1602&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 <img src="https://img.shields.io/github/followers/GURUVISHNU1602?label=Followers&style=for-the-badge&color=blue"/>
 
-<img src="https://img.shields.io/github/stars/GURUVISHNU1602?label=Stars&style=for-the-badge&color=yellow"/>
+<img src="https://img.shields.io/github/stars/GURUVISHNU1602?style=for-the-badge&color=yellow"/>
 
 </div>
 
@@ -25,8 +25,8 @@
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 📊 Interested in Data Science & Automation
 - 💻 Love Building Real-World Projects
-- 🌱 Currently Learning FastAPI, Cloud & Advanced Python
-- ⚡ Goal: Software Engineer & AI Developer
+- 🌱 Currently Learning Advanced Python, FastAPI & Cloud
+- ⚡ Goal: Become a Software Engineer
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🗄 Database
+## 🗄️ Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
@@ -56,17 +56,13 @@
 
 ---
 
-## 🤖 AI / ML
+## 🤖 AI / Machine Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
@@ -93,19 +89,27 @@
 # 🚀 Featured Projects
 
 ### 🤖 AI Voice Assistant
-Python desktop assistant with AI chat, voice commands, reminders and automation.
+Python-based desktop assistant with voice commands, AI chat, reminders, automation and smart utilities.
+
+---
 
 ### 🏨 Hostel Management System
-Hostel Management System using Python & MySQL.
+Complete Hostel Management System using Python & MySQL.
+
+---
 
 ### 📰 Fake News Detection
-Machine Learning based Fake News Detection using NLP.
+Machine Learning model to classify fake and real news using NLP.
+
+---
 
 ### 📊 Student Placement Prediction
-ML model predicting placement chances using classification algorithms.
+Machine Learning model for predicting student placement.
+
+---
 
 ### 📈 Sales Dashboard
-Interactive dashboard using Python, Pandas and Power BI.
+Interactive dashboard built with Python, Pandas and Power BI.
 
 ---
 
@@ -113,9 +117,9 @@ Interactive dashboard using Python, Pandas and Power BI.
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GURUVISHNU1602&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GURUVISHNU1602&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUVISHNU1602&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUVISHNU1602&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -131,7 +135,7 @@ Interactive dashboard using Python, Pandas and Power BI.
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -159,13 +163,13 @@ Interactive dashboard using Python, Pandas and Power BI.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/GURUVISHNU1602">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:guruvishnugds@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -177,7 +181,7 @@ Interactive dashboard using Python, Pandas and Power BI.
 
 <div align="center">
 
-## 💡 Developer Quote
+## 💡 Quote of the Day
 
 > **"First, solve the problem. Then, write the code." – John Johnson**
 

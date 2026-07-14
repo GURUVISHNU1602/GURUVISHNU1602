@@ -16,16 +16,29 @@
 
 </div>
 
----
+## 👨‍💻 About Me
 
-# 🚀 About Me
+<table>
+<tr>
+<td width="230">
 
-- 🎓 Computer Science Engineering Graduate
-- 🐍 Passionate Python Developer
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 📊 Interested in Data Science & Automation
-- 💻 Love Building Real-World Projects
-- 🌱 Currently Learning Advanced Python, FastAPI & Cloud
+<img src="https://octodex.github.com/images/scubatocat.png" width="220"/>
+
+</td>
+
+<td>
+
+- 🐍 I'm a passionate **Python Developer** building scalable and real-world applications.
+- 🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**.
+- 💻 Building projects using **Python, FastAPI, SQL & modern web technologies**.
+- 📊 Interested in **Data Science, Automation & Backend Development**.
+- ☁️ Learning **Cloud Computing, Docker, Git, CI/CD & DevOps**.
+- 🚀 Creating **real-world projects** and continuously improving my skills.
+- 🌱 Open to **internships, collaborations & open-source contributions**.
+
+</td>
+</tr>
+</table>
 
 ---
 

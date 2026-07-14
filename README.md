@@ -20,10 +20,9 @@
 
 <table>
 <tr>
-<td width="230">
-
-<img src="assets/octocat.png" width="220"/>
-
+<td width="300" align="center">
+  <img src="assets/developer-boy.png" width="300" alt="Developer Illustration">
+</td>
 </td>
 
 <td>

@@ -5,12 +5,20 @@ Guru Vishnu G ⭐
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Software+Engineer;Open+Source+Learner;Building+Real-World+Projects" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=GURUVISHNU1602&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 </div>
 
 ---
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=GURUVISHNU1602&theme=tokyonight"/>
+
+</p>
+
 
 # 🚀 About Me
 
@@ -169,14 +177,6 @@ Interactive dashboard using Python, Pandas and Power BI.
 </p>
 
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
 
 ---
 
